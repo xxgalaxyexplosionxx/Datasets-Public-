@@ -5899,3 +5899,30 @@ In 1944, at age 15, King entered Morehouse College in Atlanta under a special wa
 At Morehouse, King favored studies in medicine and law, but these were eclipsed in his senior year by a decision to enter the ministry, as his father had urged. King’s mentor at Morehouse was the college president, Benjamin Mays, a social gospel activist whose rich oratory and progressive ideas had left an indelible imprint on King’s father. Committed to fighting racial inequality, Mays accused the African American community of complacency in the face of oppression, and he prodded the Black church into social action by criticizing its emphasis on the hereafter instead of the here and now; it was a call to service that was not lost on the teenage King. He graduated from Morehouse in 1948.
 
 King spent the next three years at Crozer Theological Seminary in Chester, Pennsylvania, where he became acquainted with Mohandas Gandhi’s philosophy of nonviolence as well as with the thought of contemporary Protestant theologians. He earned a bachelor of divinity degree in 1951. Renowned for his oratorical skills, King was elected president of Crozer’s student body, which was composed almost exclusively of white students. As a professor at Crozer wrote in a letter of recommendation for King, “The fact that with our student body largely Southern in constitution a colored man should be elected to and be popular [in] such a position is in itself no mean recommendation.” From Crozer, King went to Boston University, where, in seeking a firm foundation for his own theological and ethical inclinations, he studied man’s relationship to God and received a doctorate (1955) for a dissertation titled “A Comparison of the Conceptions of God in the Thinking of Paul Tillich and Henry Nelson Wieman.”
+Why, morally, does the power rule “break” for 1/x?
+The power rule tells us that the antiderivative of xp is xp+1 times a constant. It’s easy to show that the antiderivative of 1/x is log(x), and that we can’t apply the power rule to 1/x since it would lead us to dividing by zero.
+
+But I always thought this was a little odd. For x-1.01 and x-0.99, the power rule works just fine, but the functions we get look completely different from log(x), even though the closeness of the exponents to -1 leads me to believe that the antiderivatives should look similar. Is there something that suddenly changes once we hit 1/x that takes us out of the polynomial paradigm? What’s special about 1/x here
+What is the best free software for drawing basic mathematical shapes?
+I have a presentation due to Monday about prisms, while i , of course, could look up for some good images on google, i was wondering if there was an piece of software which i could use to draw all the neccesary images for my presentation by myself, if its even worth it to spend my time on that
+
+It has to be free and not too complicated to use
+
+Thank you in advance
+During the Spanish American war an American ship fired cannons at a Spanish owned island. None of the cannon balls did any damage. The governor (I think) rowed out to the ship to apologise to the captain for not returning the salute as they had no cannons/gunpowder. The captain then had to explain that they were at war and he had actually been attacking the island. The governor surrendered. The American fleet had more pressing places to be and couldn't leave a military presence at the island but luckily there was an American citizen who lived there and he said he would take care of the place in their absence.
+
+Edit: there's some minor inaccuracies in my comment but someone below has posted the wiki article. It's well worth a read.
+The Wei of ancient China (iirc, these stories come from about 400 CE) had some contact with The Land of Wa, which we call Japan. During voyages and such, they would have what is called a 'Fortune Keeper.' It's a guy who would not bathe, not eat meat, stay away from women, and generally act depressed all the time.
+
+The idea is that he suffers all the horrible things that could go wrong so that way it doesn't affect the voyage. When he gets back home he gets rewarded with gold, women, food, slaves, the works. If something goes wrong...they kill him. Because clearly he wasn't doing his job.
+The Wei of ancient China (iirc, these stories come from about 400 CE) had some contact with The Land of Wa, which we call Japan. During voyages and such, they would have what is called a 'Fortune Keeper.' It's a guy who would not bathe, not eat meat, stay away from women, and generally act depressed all the time.
+
+The idea is that he suffers all the horrible things that could go wrong so that way it doesn't affect the voyage. When he gets back home he gets rewarded with gold, women, food, slaves, the works. If something goes wrong...they kill him. Because clearly he wasn't doing his job.
+During WW2 the British were making a hasty retreat from Norway. Initially they were going to destroy 10 land based Hurricane planes so that the Germans couldn't capture them, but they seemed too good to waste so a plan was made to land them on the British carrier HMS Glorious and bring them to England.
+
+There were just two problems: The landing speed of the Hurricanes was too high for the carriers length and the planes had no arresting hook.
+
+The solution discovered by pilots was to place a 15lbs sandbag in the tail of the plane which allowed it to brake harder and make a full stop on the carrier. All 10 Hurricanes landed on the carrier.
+
+https://en.wikipedia.org/wiki/HMS_Glorious#Norwegian_Campaign
+The first battle of the American Civil War, Bull Run, took place on Wilmer McLean's farm. During the surrender of said war, General Lee sent a messenger to the community of Appomatix Court House, where Willmer Mclean just so happened to have resettled in his new house. As fortune would have it, the messenger knocked on McLean's door asking for the use of his residence for the surrender. Thus the war is said to have "started in his front yard and ended in his front parlor."
